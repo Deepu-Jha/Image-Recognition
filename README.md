@@ -1,6 +1,8 @@
 #Image Recognition Using Convolutional Neural Networks (CNNs)
+
 Overview
 This project implements a Convolutional Neural Network (CNN) for image recognition. CNNs are particularly effective for tasks like image classification due to their ability to learn spatial hierarchies of features directly from pixel images.
+
 
 Features
 CNN Architecture: Utilizes a custom CNN architecture suitable for image recognition tasks.
